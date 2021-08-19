@@ -1,11 +1,11 @@
 {
    "name": "Generator Bot",
-   "description": "A nitro sniper for discord.",
-   "repository": "https://github.com/slow/nitro-sniper",
+   "description": "Discord Gen Bot.",
+   "repository": "https://github.com/zekog/Account-Generator-Bot-Discord",
    "logo": "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png",
    "env": {
       "settings": {
-         "description": "Your configuration for the sniper.",
+         "description": "For Settings Edit Config.",
          "required": false
       }
    }
